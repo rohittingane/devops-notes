@@ -1,13 +1,3 @@
-# 📚 DevOps Notes
-
-My personal DevOps learning notes, cheat sheets, and command references.
-
-This repository contains documentation created while learning and practicing DevOps tools.
-
----
-
-## 📂 Topics Covered
-
 ### 🐧 Linux
 
 Notes related to:
@@ -19,6 +9,7 @@ Notes related to:
 
 Location:
 
+[Linux](./Linux/)
 
 ---
 
@@ -34,6 +25,7 @@ Notes related to:
 
 Location:
 
+[Git](./Git/)
 
 ---
 
@@ -48,6 +40,7 @@ Notes related to:
 
 Location:
 
+[Shell-Scripting](./Shell-Scripting/)
 
 ---
 
@@ -57,6 +50,7 @@ Docker learning notes and commands.
 
 Location:
 
+[Docker](./Docker/)
 
 ---
 
@@ -66,15 +60,4 @@ Cloud learning notes and AWS fundamentals.
 
 Location:
 
-
----
-
-## 🚀 Learning Approach
-
-I believe in learning by doing.
-
-These notes are created while practicing real commands, solving tasks, and building hands-on projects during my DevOps journey.
-
----
-
-📌 Part of my #90DaysOfDevOps learning journey.
+[AWS](./AWS/)
