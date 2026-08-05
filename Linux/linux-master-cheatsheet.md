@@ -1,4 +1,4 @@
-# 🐧 Master Linux Cheat Sheet (Day 03 – Day 13)
+# 🐧 Master Linux Cheat Sheet 
 
 **A complete, beginner-friendly reference.** Every command explained word-by-word — what it is, why we use it, and how to use it — so that even someone who has never touched Linux before can follow along.
 
