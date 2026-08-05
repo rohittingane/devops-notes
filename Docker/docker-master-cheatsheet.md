@@ -1,4 +1,4 @@
-# 🐳 Master Docker Cheat Sheet (Day 29 – Day 32)
+# 🐳 Master Docker Cheat Sheet
 
 **A complete, beginner-friendly reference.** Every command is explained word-by-word — what it is, why we use it, and how to use it — so that even someone who has never touched Docker before can follow along.
 
