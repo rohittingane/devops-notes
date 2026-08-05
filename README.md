@@ -28,7 +28,7 @@ Beginner-friendly, word-by-word explained notes covering:
 
 📘 [Git Master Cheat Sheet](./Git/git-master-cheatsheet.md) — full explanations, from basics
 📋 [Git Commands Table](./Git/git-commands-table.md) — quick command reference
-📅 Day-by-day notes: [Day 22](./Git/day-22-notes.md) · [Day 23](./Git/day-23-notes.md) · [Day 24](./Git/day-24-notes.md) · [Day 25](./Git/day-25-notes.md) · [Day 26](./Git/day-26-notes.md) · [Day 27](./Git/day-27-notes.md)
+📅 Day-by-day notes: [Day 22](./Git/day-22-notes.md) · [Day 23](./Git/day-23-notes.md) · [Day 24](./Git/day-24-notes.md) · [Day 25](./Git/day-25-notes.md) · [Day 26](./Git/day-26-notes.md) · [Day 27](./Git/day-27-notes.md) · [Day 28 (Revision)](./Git/day-28-notes.md)
 📄 [git-commands.md](./Git/git-commands.md)
 
 Location: [Git/](./Git/)
@@ -36,11 +36,19 @@ Location: [Git/](./Git/)
 ---
 
 ### 📝 Shell Scripting
-Notes related to:
-- Bash scripting
-- Automation
-- Loops and functions
-- Script best practices
+Beginner-friendly, word-by-word explained notes covering:
+- Shell basics — shebang, variables, quoting rules
+- Conditionals (if/elif/else, case statements)
+- Loops (for, while, until) & loop control
+- Functions, return values & local variables
+- Text processing (grep, awk, sed, cut, sort, uniq, tr, wc)
+- Error handling & debugging (`set -euo pipefail`, `trap`)
+- Real-world scripts (health checks, backups, watchdogs, deployments)
+- Scheduling scripts with `cron`
+
+📘 [Shell Scripting Master Cheat Sheet](./Shell-Scripting/shell-scripting-master-cheatsheet.md) — full explanations, from basics
+📋 [Shell Scripting Commands Table](./Shell-Scripting/shell-scripting-commands-table.md) — quick command reference
+📅 Day-by-day notes: [Day 16](./Shell-Scripting/day-16-shell-scripting.md) · [Day 17](./Shell-Scripting/day-17-scripting.md) · [Day 18](./Shell-Scripting/day-18-scripting.md) · [Day 19](./Shell-Scripting/day-19-notes.md) · [Day 20](./Shell-Scripting/day-20-notes.md) · [Day 21](./Shell-Scripting/day-21-notes.md)
 
 Location: [Shell-Scripting/](./Shell-Scripting/)
 
